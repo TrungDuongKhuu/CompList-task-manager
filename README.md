@@ -2,7 +2,8 @@
 
 **CompList** is a desktop application built on **C# .NET WinForms**, designed to help organizations manage work checklists, monitor task execution, and track employee performance. By combining **QR-based workflows** with **Google Forms and Sheets integration**, the system enables employees to submit task updates quickly, while managers can review progress and KPIs in a centralized platform.
 
-For detailed explanations, workflows, and screenshots, please refer to the **Report** - full project information.
+For detailed explanations, workflows, and screenshots, please refer to the **Report.pdf** - full project information.
+
 ---
 
 ## 🔍 System Overview
