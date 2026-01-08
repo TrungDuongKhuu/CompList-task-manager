@@ -2,6 +2,7 @@
 
 **CompList** is a desktop application built on **C# .NET WinForms**, designed to help organizations manage work checklists, monitor task execution, and track employee performance. By combining **QR-based workflows** with **Google Forms and Sheets integration**, the system enables employees to submit task updates quickly, while managers can review progress and KPIs in a centralized platform.
 
+For detailed explanations, workflows, and screenshots, please refer to the **Report** - full project information.
 ---
 
 ## 🔍 System Overview
@@ -108,7 +109,7 @@ FinalProject/bin/Debug/
 * **University:** Ton Duc Thang University (TDTU)
 * **Faculty / Department:** Information Technology
 * **Program:** Software Engineering
-* **Academic Year:** 2023 – 2024
+* **Academic Year:** 2024 – 2025
 * **Instructor / Supervisor:** MSc Vo Hoang Quan
 
 ---
